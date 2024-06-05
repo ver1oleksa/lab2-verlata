@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Laboratory Work 2',
+  title: 'Lab Work 2',
   tagline: 'Slava Ukrayini!',
   favicon: 'img/favicon.ico',
 
